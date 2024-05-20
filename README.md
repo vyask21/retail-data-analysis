@@ -4,6 +4,5 @@ This is end-to-end Data analytics project of a superstore dataset to perform ETL
 dataset: https://www.kaggle.com/datasets/vyasks01/retail-orders-dataset
 
 Dependencies
-> Python
-
-> MySQL Workbench
+- Python
+- MySQL Workbench
