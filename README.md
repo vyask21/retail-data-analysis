@@ -5,4 +5,5 @@ dataset: https://www.kaggle.com/datasets/vyasks01/retail-orders-dataset
 
 Dependencies
 > Python
+
 > MySQL Workbench
